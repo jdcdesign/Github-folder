@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-11-23_1518",
-    "currentPage": "index.html",
+    "currentPage": "Onderzoek.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -650,7 +650,7 @@
           },
           "title": "GEZICHTSUITDRUKKINGEN",
           "text": "Aan de hand van de portretten gaan we de krachtlijnen eruit halen en deze krachtlijnen worden omgezet in 3D door middel van plooien of andere technieken. Zie krachtlijnen om ons proces te volgen.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">KRACHTLIJNEN</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"Krachtlijnen.html\" data-toolbar=\"-mbrBtnMove\">KRACHTLIJNEN</a>"
         }
       ]
     },
