@@ -23,7 +23,7 @@
     "publishType": "github",
     "publishPath": "file:///Users/jessavanwell/Desktop/Mobirise%20lokaal",
     "versionFirst": "3.9.2",
-    "uniqCompNum": 373,
+    "uniqCompNum": 382,
     "versionPublish": "3.9.2",
     "favicon": "",
     "noImageResize": "",
@@ -178,7 +178,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -371,7 +371,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -474,7 +474,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -616,154 +616,6 @@
         }
       ]
     },
-    "Privacy.html": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 20
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#efefef"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
-            },
-            ".link, .dropdown-item": {
-              "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#efefef",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-24",
-          "_params": {
-            "bgColor": "#000000",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
-            },
-            "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000",
-              "font-size": "60px"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-size": "16px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-size": "16px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-25",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "<br>PRIVACY<br>",
-          "text": "<br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">Privacybeleid jdcdesign<br><br>Versie 0.1<br>Deze pagina is voor het laatst aangepast op 9 januari 2017.<br><br>Wij zijn er van bewust dat u vertrouwen stelt in ons. Wij zien het dan ook als onze verantwoordelijkheid om uw privacy te beschermen. Op deze pagina laten we u weten welke gegevens we verzamelen als u onze website gebruikt, waarom we deze gegevens verzamelen en hoe we hiermee uw gebruikservaring verbeteren. Zo snapt u precies hoe wij werken.<br><br>Dit privacybeleid is van toepassing op de diensten van jdcdesign. U dient zich ervan bewust te zijn dat jdcdesign niet verantwoordelijk is voor het privacybeleid van andere sites en bronnen. Door gebruik te maken van deze website geeft u aan het privacy beleid te accepteren.<br><br>Jdcdesign respecteert de privacy van alle gebruikers van haar site en draagt er zorg voor dat de persoonlijke informatie die u ons verschaft vertrouwelijk wordt behandeld.<br><br></span><br><span style=\"font-style: normal;\"><b>COOKIES&nbsp;<br></b>Wij verzamelen gegevens voor onderzoek om zo een beter inzicht te krijgen in onze klanten, zodat wij onze diensten hierop kunnen afstemmen.<br><br>Deze website maakt gebruik van “cookies” (tekstbestandtjes die op uw computer worden geplaatst) om de website te helpen analyseren hoe gebruikers de site gebruiken. De door het cookie gegenereerde informatie over uw gebruik van de website kan worden overgebracht naar eigen beveiligde servers van jdcdesign of die van een derde partij. Wij gebruiken deze informatie om bij te houden hoe u de website gebruikt, om rapporten over de website-activiteit op te stellen en andere diensten aan te bieden met betrekking tot website-activiteit en internetgebruik.<br><br><br><b>DOELEINDEN&nbsp;</b><br>We verzamelen of gebruiken geen informatie voor andere doeleinden dan de doeleinden die worden beschreven in dit privacybeleid tenzij we van tevoren uw toestemming hiervoor hebben verkregen.<br><br><br><b>DERDEN&nbsp;</b><br>De informatie wordt niet met derden gedeeld. In enkele gevallen kan de informatie intern gedeeld worden. Onze werknemers zijn verplicht om de vertrouwelijkheid van uw gegevens te respecteren.</span><br><br><br><span style=\"font-style: normal;\"><b>VERANDERINGEN&nbsp;<br></b>Deze privacyverklaring is afgestemd op het gebruik van en de mogelijkheden op deze site. Eventuele aanpassingen en/of veranderingen van deze site, kunnen leiden tot wijzigingen in deze privacyverklaring. Het is daarom raadzaam om regelmatig deze privacyverklaring te raadplegen.<br><br><br><b>KEUZES VOOR PERSOONSGEGEVENS&nbsp;<br></b>Wij bieden alle bezoekers de mogelijkheid tot het inzien, veranderen, of verwijderen van alle persoonlijke informatie die op moment aan ons is verstrekt.<br><br><br><b>COOKIES UITZETTEN&nbsp;<br></b>De meeste browsers zijn standaard ingesteld om cookies te accepteren, maar u kunt uw browser opnieuw instellen om alle cookies te weigeren of om aan te geven wanneer een cookie wordt verzonden. Het is echter mogelijk dat sommige functies en ”“services, op onze en andere websites, niet correct functioneren als cookies zijn uitgeschakeld in uw browser.<br><br>We controleren regelmatig of we aan dit privacybeleid voldoen.&nbsp;<br></span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
-        }
-      ]
-    },
     "Neutraal.html": {
       "settings": {
         "title": "",
@@ -863,7 +715,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1134,7 +986,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -2841,7 +2693,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -3874,7 +3726,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -3939,6 +3791,15 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "text-align": "right",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
           "_anchor": "msg-box1-9z",
           "_params": {
             "paddingTop": "0",
@@ -3962,16 +3823,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "<span style=\"font-style: normal;\">Klik op 'ga terug' om terug te gaan naar het onderzoek.</span>",
-          "title": "PRE MADE BLOCKS",
-          "_styles": {
-            "H2": {
-              "color": "#000000",
-              "text-align": "right",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px"
-            }
-          }
+          "title": "PRE MADE BLOCKS"
         },
         {
           "_tags": [
@@ -4375,7 +4227,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "header1",
@@ -5007,7 +4859,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -5367,7 +5219,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -5638,7 +5490,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -5909,7 +5761,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -6180,7 +6032,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -6440,6 +6292,172 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#000000",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box1-ah",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "MARILYN MONROE"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0-2000x2000-76-2000x2000-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/0-2000x2000-76.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2000-74-2000x2000-89.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x2000-74.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-ak",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-al",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1-1400x1400-12.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#000000",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box1-ad",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "MICHAEL JACKSON"
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -6561,7 +6579,7 @@
             "overlay": true,
             "overlayOpacity": 0.3,
             "overlayColor": "#000",
-            "inverse": true,
+            "inverse": false,
             "showTitle": false,
             "showText": false,
             "showButtons": false,
@@ -6592,6 +6610,42 @@
           "title": "INTRO WITH IMAGE",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#000000",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box1-ae",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "ADOLF HITLER"
         },
         {
           "_inherit": "gallery1",
@@ -6726,115 +6780,6 @@
           "title": "INTRO WITH IMAGE",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-7d",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-600x600-97.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-600x600-78.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -7002,7 +6947,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -7489,7 +7434,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -7672,7 +7617,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -7852,7 +7797,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -8407,7 +8352,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -9971,13 +9916,22 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "16px"
+            },
+            "H3": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "msg-box5-9w",
           "_params": {
             "paddingTop": "2",
@@ -10023,22 +9977,27 @@
           },
           "title": "<br><br><br><br><br><br><span style=\"font-size: 3rem; line-height: 1.1;\">PROTOTYPE</span><br>",
           "text": "Ontworpen door: Cynthia Van Looy, Dries Reydams en Jessica van Well",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-size": "16px"
-            },
-            "H3": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#000000",
+              "font-size": "16px",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-9y",
           "_params": {
             "paddingTop": "1",
@@ -10084,21 +10043,155 @@
           },
           "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">PROTOTYPE</span><br>",
           "text": "Ontworpen door: Cynthia Van Looy, Dries Reydams en Jessica van Well",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "privacy.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 20
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
           "_styles": {
-            "H3": {
-              "color": "#000000",
-              "text-align": "left"
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
             },
-            "P": {
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-24",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Context.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">CROSS OVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm zelfportret.html\">BRAINSTORM&nbsp;ZELFPORTRET NR°35   <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm Ellen Pil.html\">BRAINSTORM&nbsp;VISIE ELLEN PIL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Brainstorm vervreemding.html\">BRAINSTORM VERVREEMDING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Ontwerpproces.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ONTWERPPROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces zelfportret.html\">ZELFPORTRET NR 35&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces iconen.html\">PORTRET ICONEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces eigen portretten.html\">PORTRET VAN DE ONTWERPERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpproces emoties.html\">PORTRET MET EMOTIES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Analyse.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROTOTYPE\u001b</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prototype.html\">CONCEPT EN INSTALLATIE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Resultaat.html\">PROTOTYPE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Over ons.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVER ONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ons team.html\">ONS TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wie is wie.html\">WIE IS WIE?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\">PRIVACY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "font-size": "60px"
+            },
+            ".mbr-section-lead": {
               "color": "#000000",
               "font-size": "16px",
-              "text-align": "left"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
-            "SPAN": {
-              "text-align": "left"
+            ".mbr-section-lead SPAN": {
+              "font-size": "16px"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-25",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<br>PRIVACY<br>",
+          "text": "<br><br><span style=\"font-style: normal;\">Privacybeleid jdcdesign<br><br>Versie 0.1<br>Deze pagina is voor het laatst aangepast op 10 januari 2017.<br><br>Wij zijn er van bewust dat u vertrouwen stelt in ons. Wij zien het dan ook als onze verantwoordelijkheid om uw privacy te beschermen. Op deze pagina laten we u weten welke gegevens we verzamelen als u onze website gebruikt, waarom we deze gegevens verzamelen en hoe we hiermee uw gebruikservaring verbeteren. Zo snapt u precies hoe wij werken.<br><br>Dit privacybeleid is van toepassing op de diensten van jdcdesign. U dient zich ervan bewust te zijn dat jdcdesign niet verantwoordelijk is voor het privacybeleid van andere sites en bronnen. Door gebruik te maken van deze website geeft u aan het privacy beleid te accepteren.<br><br><br></span><span style=\"font-style: normal;\"><b>COOKIES&nbsp;</b></span><br><span style=\"font-style: normal;\"><b><br></b>Wij verzamelen gegevens voor onderzoek om zo een beter inzicht te krijgen in onze klanten, zodat wij onze diensten hierop kunnen afstemmen.<br><br>Deze website maakt gebruik van “cookies” (tekstbestandtjes die op uw computer worden geplaatst) om de website te helpen analyseren hoe gebruikers de site gebruiken. De door het cookie gegenereerde informatie over uw gebruik van de website kan worden overgebracht naar eigen beveiligde servers van jdcdesign of die van een derde partij. Wij gebruiken deze informatie om bij te houden hoe u de website gebruikt, om rapporten over de website-activiteit op te stellen en andere diensten aan te bieden met betrekking tot website-activiteit en internetgebruik.<br></span><span style=\"font-style: normal;\"><br><br><b>DOELEINDEN&nbsp;</b></span><br><span style=\"font-style: normal;\"><br>We verzamelen of gebruiken geen informatie voor andere doeleinden dan de doeleinden die worden beschreven in dit privacybeleid tenzij we van tevoren uw toestemming hiervoor hebben verkregen.</span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br><b>DERDEN&nbsp;</b></span><br><span style=\"font-style: normal;\"><br>De informatie wordt niet met derden gedeeld. In enkele gevallen kan de informatie intern gedeeld worden. Onze werknemers zijn verplicht om de vertrouwelijkheid van uw gegevens te respecteren.</span><br><br><br><span style=\"font-style: normal;\"><b>VERANDERINGEN&nbsp;</b></span><br><span style=\"font-style: normal;\"><b><br></b>Deze privacyverklaring is afgestemd op het gebruik van en de mogelijkheden op deze site. Eventuele aanpassingen en/of veranderingen van deze site, kunnen leiden tot wijzigingen in deze privacyverklaring. Het is daarom raadzaam om regelmatig deze privacyverklaring te raadplegen.<br></span><br><span style=\"font-style: normal;\"><br><b>KEUZES VOOR PERSOONSGEGEVENS&nbsp;</b></span><br><span style=\"font-style: normal;\"><b><br></b>Wij bieden alle bezoekers de mogelijkheid tot het inzien, veranderen, of verwijderen van alle persoonlijke informatie die op moment aan ons is verstrekt.<br><br></span><span style=\"font-style: normal;\"><br><b>COOKIES UITZETTEN&nbsp;</b></span><br><span style=\"font-style: normal;\"><b><br></b>De meeste browsers zijn standaard ingesteld om cookies te accepteren, maar u kunt uw browser opnieuw instellen om alle cookies te weigeren of om aan te geven wanneer een cookie wordt verzonden. Het is echter mogelijk dat sommige functies en ”“services, op onze en andere websites, niet correct functioneren als cookies zijn uitgeschakeld in uw browser.<br><br>We controleren regelmatig of we aan dit privacybeleid voldoen.&nbsp;<br></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
     }

@@ -651,82 +651,6 @@ h6,
   font-size: 15px;
 }
 
-
-#ext_menu-24 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-24 .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-24 .navbar-toggler {
-  color: #efefef;
-}
-#ext_menu-24 .close-icon::before,
-#ext_menu-24 .close-icon::after {
-  background-color: #efefef;
-}
-#ext_menu-24 .link,
-#ext_menu-24 .dropdown-item {
-  color: #efefef;
-  font-family: 'Montserrat', sans-serif;
-}
-#ext_menu-24 .link {
-  font-size: 0.75rem;
-}
-#ext_menu-24 .dropdown-item,
-#ext_menu-24 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-24 .link:hover,
-#ext_menu-24 .dropdown-item:hover,
-#ext_menu-24 .link:focus,
-#ext_menu-24 .dropdown-item:focus {
-  color: #ffffff;
-}
-#ext_menu-24 .link[aria-expanded="true"],
-#ext_menu-24 .dropdown-menu {
-  background: #000000;
-}
-#ext_menu-24 .nav-dropdown-sm .link:focus,
-#ext_menu-24 .nav-dropdown-sm .link:hover,
-#ext_menu-24 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-24 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#ext_menu-24 .navbar,
-#ext_menu-24 .nav-dropdown-sm,
-#ext_menu-24 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-24 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#ext_menu-24 .bg-color.transparent .link {
-  color: #efefef;
-  transition: none;
-}
-#ext_menu-24 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-24 .bg-color.transparent.opened .link:hover,
-#ext_menu-24 .bg-color.transparent.opened .link:focus {
-  color: #ffffff;
-}
-#ext_menu-24 .link[aria-expanded="true"],
-#ext_menu-24 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
-}
-#header5-25 .mbr-section-title {
-  color: #000;
-  font-size: 60px;
-}
-#header5-25 .mbr-section-lead {
-  color: #000000;
-  font-size: 16px;
-  font-family: 'Raleway', sans-serif;
-}
-#header5-25 .mbr-section-lead SPAN {
-  font-size: 16px;
-}
-
 #ext_menu-1s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1945,6 +1869,18 @@ h6,
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
 }
+#msg-box1-ah H3 {
+  color: #000000;
+  font-size: 36px;
+}
+#msg-box1-ad H3 {
+  color: #000000;
+  font-size: 36px;
+}
+#msg-box1-ae H3 {
+  color: #000000;
+  font-size: 36px;
+}
 #msg-box1-ab H2 {
   color: #000000;
   text-align: right;
@@ -2503,4 +2439,80 @@ h6,
 }
 #msg-box5-9y SPAN {
   text-align: left;
+}
+
+
+#ext_menu-24 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-24 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-24 .navbar-toggler {
+  color: #efefef;
+}
+#ext_menu-24 .close-icon::before,
+#ext_menu-24 .close-icon::after {
+  background-color: #efefef;
+}
+#ext_menu-24 .link,
+#ext_menu-24 .dropdown-item {
+  color: #efefef;
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-24 .link {
+  font-size: 0.75rem;
+}
+#ext_menu-24 .dropdown-item,
+#ext_menu-24 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-24 .link:hover,
+#ext_menu-24 .dropdown-item:hover,
+#ext_menu-24 .link:focus,
+#ext_menu-24 .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-24 .link[aria-expanded="true"],
+#ext_menu-24 .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-24 .nav-dropdown-sm .link:focus,
+#ext_menu-24 .nav-dropdown-sm .link:hover,
+#ext_menu-24 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-24 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-24 .navbar,
+#ext_menu-24 .nav-dropdown-sm,
+#ext_menu-24 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-24 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-24 .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#ext_menu-24 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-24 .bg-color.transparent.opened .link:hover,
+#ext_menu-24 .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-24 .link[aria-expanded="true"],
+#ext_menu-24 .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#header5-25 .mbr-section-title {
+  color: #000;
+  font-size: 60px;
+}
+#header5-25 .mbr-section-lead {
+  color: #000000;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+}
+#header5-25 .mbr-section-lead SPAN {
+  font-size: 16px;
 }
